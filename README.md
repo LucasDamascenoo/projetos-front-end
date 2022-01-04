@@ -2,8 +2,8 @@
 
 Estes projetos tem a finalidade a pratica diaria das teclogias envolvidas no univerdo front-end.
 
-Atualmente seguindo e praticando 2 cursos, o primeiro de forma gratuita no Youtube .[VidaFullStack].(https://www.youtube.com/playlist?list=PLMy95_4XE08MRsQvaSQnHzyooNevGTNtS)
-e o segundo atráves do curso .[onebitcode].(https://programador.onebitcode.com/?ref=X63525543D&gclid=Cj0KCQiA2sqOBhCGARIsAPuPK0hLdTFrJuoDK4MWVramUYeyQt7827a6CXRY41AtwiI95jmP_9FdeVEaAgJ3EALw_wcB)
+Atualmente seguindo e praticando 2 cursos, o primeiro de forma gratuita no Youtube [VidaFullStack](https://www.youtube.com/playlist?list=PLMy95_4XE08MRsQvaSQnHzyooNevGTNtS)
+e o segundo atráves do curso [onebitcode](https://programador.onebitcode.com/?ref=X63525543D&gclid=Cj0KCQiA2sqOBhCGARIsAPuPK0hLdTFrJuoDK4MWVramUYeyQt7827a6CXRY41AtwiI95jmP_9FdeVEaAgJ3EALw_wcB)
 
 ### 💡 Dicas
 
