@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Brincando com display</title>
+
+  <style>
+    .d-inline {
+      display: inline;
+      background-color: red;
+
+    }
+
+
+    .d-block {
+      display: block;
+      background-color: blue;
+      width: 33.333%;
+      height: 100%;
+      margin-bottom: 10px;
+
+    }
+
+    .d-inline-block {
+      display: inline-block;
+      justify-content: center;
+      width: 25%;
+
+      background-color: blue;
+
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>display inline</h1>
+
+  <p>Display inline é transforma os elementos como se fossem "texto", podemos colocar um elementro lado a lado e ele
+    ocupa somente o tamanho do conteudo do elemento, porem ele perde
+    algumas propriedades do css, onde não podemos incluir width e height ( largura e tamanho).
+  </p>
+
+  <div class="d-inline">Texto1</div>
+  <div class="d-inline">Texto2</div>
+  <div class="d-inline">Texto3</div>
+
+  <hr>
+
+  <h1>Display block</h1>
+
+  <div class="d-block t1">Texto1</div>
+  <div class="d-block t2">Texto2</div>
+  <div class="d-block t3">Texto3</div>
+
+  <hr>
+
+  <h1>Display inline-block</h1>
+
+
+
+  <div class="d-inline-block">Textto1</div>
+  <div class="d-inline-block">Texto2</div>
+  <div class="d-inline-block">Texto3</div>
+
+
+</body>
+
+</html>
